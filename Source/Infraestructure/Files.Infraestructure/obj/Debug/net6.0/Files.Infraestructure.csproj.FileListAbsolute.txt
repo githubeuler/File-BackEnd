@@ -1,0 +1,15 @@
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\bin\Debug\net6.0\Files.Infraestructure.deps.json
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\bin\Debug\net6.0\Files.Infraestructure.dll
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\bin\Debug\net6.0\Files.Infraestructure.pdb
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\bin\Debug\net6.0\Files.Application.dll
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\bin\Debug\net6.0\Files.Application.pdb
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\obj\Debug\net6.0\Files.Infraestructure.csproj.AssemblyReference.cache
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\obj\Debug\net6.0\Files.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\obj\Debug\net6.0\Files.Infraestructure.AssemblyInfoInputs.cache
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\obj\Debug\net6.0\Files.Infraestructure.AssemblyInfo.cs
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\obj\Debug\net6.0\Files.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\obj\Debug\net6.0\Files.In.7B42758E.Up2Date
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\obj\Debug\net6.0\Files.Infraestructure.dll
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\obj\Debug\net6.0\refint\Files.Infraestructure.dll
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\obj\Debug\net6.0\Files.Infraestructure.pdb
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Infraestructure\Files.Infraestructure\obj\Debug\net6.0\ref\Files.Infraestructure.dll

@@ -1,0 +1,12 @@
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\bin\Debug\net6.0\Files.Application.deps.json
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\bin\Debug\net6.0\Files.Application.dll
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\bin\Debug\net6.0\Files.Application.pdb
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\obj\Debug\net6.0\Files.Application.csproj.AssemblyReference.cache
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\obj\Debug\net6.0\Files.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\obj\Debug\net6.0\Files.Application.AssemblyInfoInputs.cache
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\obj\Debug\net6.0\Files.Application.AssemblyInfo.cs
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\obj\Debug\net6.0\Files.Application.csproj.CoreCompileInputs.cache
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\obj\Debug\net6.0\Files.Application.dll
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\obj\Debug\net6.0\refint\Files.Application.dll
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\obj\Debug\net6.0\Files.Application.pdb
+C:\Euler\Proyectos\Factoring Plus\Fuentes\BackEnd\FilesSolutionBack\Source\Application\Files.Application\obj\Debug\net6.0\ref\Files.Application.dll
